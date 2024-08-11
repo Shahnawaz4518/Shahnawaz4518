@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1280x640/1E3A5F/FFFFFF?text=Shahnawaz+Khan+-+Software+Engineer+%7C+Tech+Enthusiast" alt="Banner" width="30%">
+  <img src="https://via.placeholder.com/1280x640/1E3A5F/FFFFFF?text=Shahnawaz+Khan+-+Software+Engineer+%7C+Tech+Enthusiast" alt="Banner" width="50%">
 </p>
 <h1 align="center">Hi 👋, I'm Shahnawaz Khan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
