@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="center"> 🌱 I’m currently learning ReactJs, NodeJs, ExpressJs, MongoDB </p>
+<p align="center"> 🌱 Machine Learning </p>
 
 <p align="center"> 💬 Ask me about Frontend, Databases, MERN </p>
 
