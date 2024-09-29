@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="center"> 🌱 I am currently learning  Machine Learning (ML) </p>
+<p align="center"> 🌱 I am currently learning  Data Science </p>
 
 <p align="center"> 💬 Ask me about Java, Frontend, Databases, MERN Stack, Data Structures and Algorithms </p>
 
