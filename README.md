@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Shahnawaz Khan, a passionate MERN Stack Developer with a strong foundation in Java, Data Structures & Algorithms, and problem-solving. I love building dynamic, responsive web applications, and I am currently focusing on mastering React.js and Node.js.<br><br>🔧 Technologies & Tools:<br><br>Frontend: React.js, Tailwind CSS, HTML, CSS, Flutter<br><br>Backend: Node.js, Express.js, MongoDB<br><br>Languages: Java, JavaScript, C++, Python<br><br>APIs: Postman<br><br>Version Control: Git, GitHub<br><br>Other: Vite, ESLint, Appwrite, Redux, REST APIs<br><br>🌱 Currently Learning:<br><br>Machine Learning with Python<br><br>📚 I enjoy solving problems, improving my skills, and collaborating on exciting tech projects. I'm always open to learning new technologies and contributing to open-source projects. If you're interested in working together or just want to chat about tech, feel free to reach out! 😄<br><br>I have solved 200+ problems across both GeeksforGeeks and LeetCode.
+👋 Hi, I'm Shahnawaz Khan, a MERN Stack Developer passionate about building responsive web applications. I specialize in React.js, Node.js, and JavaScript. With a strong background in Java, C++, and Data Structures & Algorithms, I enjoy solving problems and improving my skills.
+I’ve solved 200+ problems on GeeksforGeeks and LeetCode.
 
 
 ## 🌐 Socials:
