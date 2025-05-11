@@ -20,6 +20,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahnawazk_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnawaz-khan2512/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iamsk_25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahnawaz6499@gmail.com) 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahnawaz4518&label=Profile%20views&color=0e75b6&style=flat" alt="Shahnawaz4518" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="500" height="250" />
