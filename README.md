@@ -1,23 +1,23 @@
-# 💫 Hi 👋, I'm Shahnawaz Khan
+#  Hi , I'm Shahnawaz Khan
 
-🔨 Currently Building: Full-stack web apps with the MERN stack — crafting responsive UIs & powerful APIs
+- Currently Building: Full-stack web apps with the MERN stack — crafting responsive UIs & powerful APIs
 
-📘 Learning Now: Diving deeper into TypeScript, System Design, and DevOps (CI/CD, Docker, etc.)
+- Learning Now: Diving deeper into TypeScript, System Design, and DevOps (CI/CD, Docker, etc.)
 
-🤝 Open to Collaborate On: React projects, scalable backend systems, or anything MERN-related
+- Open to Collaborate On: React projects, scalable backend systems, or anything MERN-related
 
-🧠 Need Help With: Designing clean architecture for high-performance apps
+- Need Help With: Designing clean architecture for high-performance apps
 
-💬 Talk to Me About:
-→ React ⚛️ & Tailwind CSS 🎨
-→ JavaScript & APIs 🔧
-→ Java & DSA for interviews 💼
+- Talk to Me About:
+→ React & Tailwind CSS 
+→ JavaScript & APIs 
+→ Java & DSA for interviews 
 
-👨‍💻 Pronouns: He / Him
+ Pronouns: He / Him
 
-🤓 Fun Fact: I turn coffee ☕ into code — and bugs into features ➡️✨
+ Fun Fact: I turn coffee ☕ into code — and bugs into features 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahnawazk_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnawaz-khan2512/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iamsk_25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahnawaz6499@gmail.com) 
 
 <p align="center">
